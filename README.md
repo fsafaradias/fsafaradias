@@ -46,27 +46,15 @@ Macro desenvolvido em **Python** que permite repetir automaticamente uma tecla d
 
 🔗 [Ver projecto](https://github.com/fsafaradias/KeySpam)
 
-### 🧠 JogoMemoria
-
-Jogo da memória desenvolvido no âmbito da unidade curricular de **Programação Web**.
-
-🔗 [Ver projecto](https://github.com/fsafaradias/JogoMemoria)
-
-### 🚢 Titanic-Game
-
-Projecto desenvolvido no âmbito de **Programação Orientada por Objectos**, utilizando Java.
-
-🔗 [Ver projecto](https://github.com/fsafaradias/Titanic-Game)
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fsafaradias&show_icons=true&theme=tokyonight&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=fsafaradias&show_icons=true&theme=tokyonight&hide_title=true" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fsafaradias&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsafaradias&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -74,7 +62,6 @@ Projecto desenvolvido no âmbito de **Programação Orientada por Objectos**, ut
 
 ## 🌐 Contactos
 
-* 🐙 [GitHub](https://github.com/fsafaradias)
 * 💼 [LinkedIn](https://www.linkedin.com/in/franciscosafaradias/)
 
 ---

@@ -2,59 +2,50 @@
 
 ### 💻 Estudante de Engenharia Informática e Aplicações
 
-Sou estudante do **3.º ano de Engenharia Informática e Aplicações**, com interesse particular por **desenvolvimento de software, programação e tecnologia**.
-
-Gosto de aprender através da prática, transformar ideias em projectos funcionais e explorar novas ferramentas e tecnologias. Actualmente, procuro continuar a desenvolver as minhas competências e construir projectos que me permitam aplicar aquilo que vou aprendendo.
-
----
-
-## 🚀 Sobre mim
-
-* 🎓 Estudante de **Engenharia Informática e Aplicações**
-* 💻 Interessado em **desenvolvimento de software**
-* 🐍 Experiência com **Python**
-* ☕ Experiência com **Java**
-* 🌐 Desenvolvimento **Web**
-* 🗄️ Interesse e experiência com **bases de dados**
-* 🔧 Utilização de **Git e GitHub**
-* 📚 Sempre a aprender e a explorar novas tecnologias
+Estudante do **3.º ano**, interessado em **desenvolvimento de software, programação e tecnologia**.
+Gosto de aprender através da prática, criar projectos e explorar novas tecnologias.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias
 
-<div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" />
+<div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;">
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
 </div>
 
 ---
 
-## 📌 Projectos
+## 🚀 Projectos
 
-### 🎮 KeySpam
+### 🎮 [KeySpam](https://github.com/fsafaradias/KeySpam)
 
-Macro desenvolvido em **Python** que permite repetir automaticamente uma tecla definida pelo utilizador, com intervalo configurável e atalhos globais para utilização sem necessidade de minimizar outras aplicações.
+Macro desenvolvido em **Python** para automatizar a repetição de teclas, com intervalo configurável e atalhos globais.
 
-🔗 [Ver projecto](https://github.com/fsafaradias/KeySpam)
+### 🎯 [Titanic-Game](https://github.com/fsafaradias/Titanic-Game)
+
+Projecto em **Java** focado em **Programação Orientada a Objectos**, com várias entidades, lógica de jogo e gestão de estados.
+
+### 🃏 [JogoMemoria](https://github.com/fsafaradias/JogoMemoria)
+
+Jogo da memória desenvolvido com **HTML, CSS e JavaScript**, incluindo modos de jogo, pontuação e armazenamento local.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fsafaradias&show_icons=true&theme=tokyonight&hide_title=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsafaradias&layout=compact&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fsafaradias&show_icons=true&theme=tokyonight&hide_title=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsafaradias&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -62,8 +53,11 @@ Macro desenvolvido em **Python** que permite repetir automaticamente uma tecla d
 
 ## 🌐 Contactos
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/franciscosafaradias/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/franciscosafaradias/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/fsafaradias)
 
----
+<div align="center">
 
-✨ Obrigado pela visita!
+**Obrigado pela visita! ⭐**
+
+</div>

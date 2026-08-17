@@ -44,8 +44,9 @@ Jogo da memória desenvolvido com **HTML, CSS e JavaScript**, incluindo modos de
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fsafaradias&show_icons=true&theme=tokyonight&hide_title=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsafaradias&layout=compact&theme=tokyonight" />
+<a href="https://github.com/fsafaradias">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fsafaradias&theme=tokyonight" />
+</a>
 
 </div>
 

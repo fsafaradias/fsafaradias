@@ -105,7 +105,6 @@ Tenho experiência académica e prática em diferentes áreas do desenvolvimento
     <img src="https://github-stats-extended.vercel.app/api?username=fsafaradias&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats"/>
   </a>
 </p>
----
 
 ## 🤝 Contactos
 

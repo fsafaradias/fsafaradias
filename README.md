@@ -8,15 +8,6 @@
   Desenvolvimento de Software • Programação • Web • Automação
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/franciscosafaradias/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/fsafaradias">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
@@ -107,15 +98,13 @@ Tenho experiência académica e prática em diferentes áreas do desenvolvimento
 * 🔧 Ferramentas e boas práticas de desenvolvimento
 
 ---
-
 ## 📈 GitHub
 
 <p align="center">
   <a href="https://github.com/fsafaradias">
-    <img src="https://github-readme-stats.vercel.app/api?username=fsafaradias&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub Stats"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=fsafaradias&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats"/>
   </a>
 </p>
-
 ---
 
 ## 🤝 Contactos
